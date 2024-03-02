@@ -45,6 +45,9 @@
     background: linear-gradient(to right, #434343, #000000)
 }
 
+.bg-secondary {
+    background: #2D5D83;
+}
 .violet-gradient {
     background: #D0B870;
     background: linear-gradient(-90deg, #D0B870 0%, rgba(60, 51, 80, 0) 100%);
@@ -147,8 +150,47 @@ body,
 
 
 
+.scrollable-projects {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    max-height: 700px;
+    overflow-y: auto;
+    border: #2d5c833f 1px solid;
+    border-radius: 10px;
+    box-shadow: #2d5c834d 0px 5px 0px 0px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.scroll-arrow {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid #333; /* Color of the arrow */
+    cursor: pointer;
+}
 
+.vertical-timeline-element-content {
+    box-shadow: 0 3px #d0b870
+}
 
+.vertical-timeline:before {
+    background: #28577B
+}
+
+.vertical-timeline-element-icon {
+    box-shadow: 0 0 0 4px #5a83a3, inset 0 2px #00000014, 0 3px 0 4px #0000000d
+}
+
+.bg-tertiary-new {
+    background: #2D5D83
+}
 
 
 
