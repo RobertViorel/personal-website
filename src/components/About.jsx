@@ -1,5 +1,5 @@
 import React from "react";
-import Tilt from "react-tilt";
+import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
@@ -41,19 +41,22 @@ const About = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <p className={styles.sectionSubText}>Diginex: Your Gateway to Digital Excellence</p>
+        <h2 className={styles.heroHeadText}>Web Design and Software Development</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        At Diginex, we are dedicated to enhancing your digital
+         presence through a blend of expertise: professional web
+         design, customized software solutions, and reliable cloud
+         hosting. Our commitment is to elevate your brand and
+          unlock your digital potential. Through our integrated
+           approach, we empower companies to thrive in the dynamic
+            online landscape. Explore how Diginex can be your
+            partner in achieving digital excellence.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap'>

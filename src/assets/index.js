@@ -5,7 +5,6 @@ import close from "./close.svg";
 import design from "./graphic.png";
 import webdev from "./webdev.png";
 import digital from "./digital.png";
-
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -26,8 +25,27 @@ import tripguide from "./tripguide.png";
 import phone from "./phone.png";
 import develop from "./develop.png";
 import done from "./done.png";
+import tick from "./tick.png";
+import email from "./email.png";
+import facebook from "./facebook.png";
+import instagram from "./instagram.png";
+import link from "./link.png";
+import farmatek from "./farmatek.jpg";
+import photobost from "./photobost.jpg";
+import birds from "./birds.jpg";
+import boxa from "./boxa.jpg";
+import varcendom from "./varcendom.png";
+import diginex from "./diginex.png";
+import graphic from "./graphic.png";
 
 export {
+  graphic,
+  diginex,
+  varcendom,
+  boxa,
+  birds,
+  photobost,
+  farmatek,
   develop,
   done,
   phone,
@@ -54,4 +72,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  tick,
+  email,
+  facebook,
+  instagram,
+  link,
 };

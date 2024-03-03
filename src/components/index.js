@@ -7,6 +7,8 @@ import Experience from "./Experience";
 import Works from "./Works";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
+import Price from './Price';
+import Footer from './Footer';
 
 
 export {
@@ -17,9 +19,12 @@ export {
   Experience,
   Works,
   Contact,
+
   CanvasLoader,
   EarthCanvas,
   BallCanvas,
   ComputersCanvas,
-  StarsCanvas
+  StarsCanvas,
+  Price,
+  Footer,
 };

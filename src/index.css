@@ -44,7 +44,9 @@
     background: #000000;
     background: linear-gradient(to right, #434343, #000000)
 }
-
+.gold-gradient {
+    background: #A08449;
+}
 .bg-secondary {
     background: #2D5D83;
 }

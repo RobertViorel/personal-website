@@ -15,7 +15,7 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-          Ihr Erfolgreicher Partner für Websolutions - <span className='text-[#D0B870]'>Diginex</span>
+          Building Success in the Digital Realm - <span className='text-[#D0B870]'> Your Web Solutions Expert</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           HIGH PERFORMANCE WEB DESIGN
