@@ -205,3 +205,6 @@ body,
   background: #2D5D83
 }
 
+.bg-hero {
+  background-image: url(/assets/computer.png);
+}

@@ -31,14 +31,16 @@ import farmatek from "./farmatek.jpg";
 import photobost from "./photobost.jpg";
 import birds from "./birds.jpg";
 import boxa from "./boxa.jpg";
-import varcendom from "./varcendom.png";
+import vilalisjak from "./vilalisjak.png";
 import diginex from "./diginex.png";
 import graphic from "./graphic.png";
+import computer from "./computer.png";
 
 export {
+  computer,
   graphic,
   diginex,
-  varcendom,
+  vilalisjak,
   boxa,
   birds,
   photobost,

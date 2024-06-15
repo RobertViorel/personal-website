@@ -11,8 +11,8 @@ import { fadeIn, textVariant } from "../utils/motion";
 const ServiceCard = ({ index, title, text, icon }) => (
   <ParallaxTilt
     className='xl:w-1/3 lg:w-1/3 md:w-2/4 sm:w-full md:px-4 p-0 w-full mb-5'
-    tiltMaxAngleX={45}
-    tiltMaxAngleY={45}
+    tiltMaxAngleX={0}
+    tiltMaxAngleY={0}
     perspective={1000}
     scale={1.05}
     gyroscope

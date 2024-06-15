@@ -4,6 +4,7 @@ import Price from "./components/Price";
 import CookieConsent from "./components/CookieConsent";
 import ReactGA from 'react-ga';
 
+
 const TRACKING_ID = "G-4LB6JEE0YN";
 
 ReactGA.initialize(TRACKING_ID);
@@ -16,6 +17,7 @@ const App = () => {
           <Navbar />
           <Hero />
         </div>
+
         <About />
         <Experience />
         <Tech />

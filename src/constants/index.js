@@ -25,7 +25,7 @@ import {
     photobost,
     birds,
     boxa,
-    varcendom,
+    vilalisjak,
     diginex,
     graphic,
 
@@ -244,9 +244,9 @@ import {
       source_code_link: "https://github.com/Robert051998/Boxa-Travel",
     },
     {
-      name: "Varcendom",
+      name: "Vila Lisjak",
       description:
-        "Varcendom is a straightforward and informative website that showcases a variety of heat pumps and air conditioners.",
+        "Vila Lisjak is a beautifully designed building featuring seven luxurious apartments available for short-term rentals. I developed the website for Vila Lisjak using HTML, CSS, JavaScript, and Bootstrap, ensuring a seamless and user-friendly experience for visitors",
       tags: [
         {
           name: "HTML",
@@ -260,10 +260,14 @@ import {
           name: "JS",
           color: "pink-text-gradient",
         },
+        {
+          name: "Bootstrap",
+          color: "green-text-gradient",
+        },
       ],
-      image: varcendom,
+      image: vilalisjak,
       linkIcon: link,
-      source_code_link: "https://varcendom.si",
+      source_code_link: "https://vilalisjak.com",
     },
     {
       name: "Diginex",

@@ -41,6 +41,11 @@ const ProjectCard = ({
           speed: 450,
         }}
         className='bg-tertiary p-5 rounded-2xl sm:w-[360px] max-w-full'
+        tiltMaxAngleX={0}
+        tiltMaxAngleY={0}
+        perspective={1000}
+        scale={1.05}
+        gyroscope
       >
         <div className='relative w-full h-[230px]'>
           <img
