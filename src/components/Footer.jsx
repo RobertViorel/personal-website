@@ -36,15 +36,15 @@ const Footer = () => {
         <div className='w-full xl:w-1/3 lg:w-1/3 md:w-full sm:w-full md:px-3 p-0 xl:mb-0 lg:mb-0'>
           <div className='bg-tertiary rounded-2xl flex items-center justify-center p-5'>
             <img src={email} alt='email' className='w-[30px] h-[30px] mr-3' />
-            <a href='mailto:Hello@diginex.at' className='text-white text-center font-bold'>
-              Hello@diginex.at
+            <a href='mailto:robert@dumitrurobert.com' className='text-white text-center font-bold'>
+              Robert@dumitrurobert.com
             </a>
           </div>
         </div>
       </section>
 
       <section className="pb-6 pl-4 pr-4 text-white text-center text-[14px] flex items-center justify-center">
-          &copy; {new Date().getFullYear()} Diginex Web Solution.  All rights reserved
+          &copy; {new Date().getFullYear()} Robert Dumitru.  All rights reserved
       </section>
     </footer>
   );
