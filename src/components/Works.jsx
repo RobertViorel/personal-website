@@ -112,12 +112,12 @@ const Works = () => {
       </motion.div>
 
       <div className='w-full flex'>
-        <motion.p
+        {/* <motion.p
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
           The following projects are some of the previous work of our team. These are just a few examples from our extensive portfolio, in which we have worked with customers from all over the world.
-        </motion.p>
+        </motion.p> */}
       </div>
 
       <div className='mt-20 flex flex-wrap gap-7'>

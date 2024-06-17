@@ -68,7 +68,7 @@ import {
     {
       title: "Digital Marketing",
       icon: digital,
-      text: "Boost your business with our digital marketing expertise. From Google to social media, we've got your online presence covered.",
+      text: "From creating Google ad campaigns that drive traffic and conversions to crafting social media ads that captivate audiences.",
     },
 
   ];
@@ -174,12 +174,12 @@ import {
 
   const experiences = [
     {
-      title: "Our Free Strategy Advice",
+      title: "Free Strategy Advice",
       icon: phone,
       iconBg: "#d0b870",
       date: "Step 1",
       points: [
-        "We provide a personal initial consultation via phone, Zoom or Skype, during which we assess your project requirements and collaboratively develop initial concepts.",
+        "I provide a personal initial consultation via phone, Zoom or Skype, during which we assess your project requirements and collaboratively develop initial concepts.",
       ],
     },
     {
@@ -188,7 +188,7 @@ import {
       iconBg: "#d0b870",
       date: "Step 2",
       points: [
-        "Within 3 working days, you'll receive an individual cost estimate tailored to your project's specific requirements. Our offers are modular, providing you the flexibility to adjust the project's scope according to your needs.",
+        "Within 3 working days, you'll receive an individual cost estimate tailored to your project's specific requirements. My offers are modular, providing you the flexibility to adjust the project's scope according to your needs.",
       ],
     },
     {
@@ -197,7 +197,7 @@ import {
       iconBg: "#d0b870",
       date: "Step 3",
       points: [
-        "Once the website design is finalized, the implementation and development phase commences. Our team of web designers diligently programs your responsive website or online shop, tailoring it to your specific requirements. Throughout this process, we conduct quality assurance checks in parallel to guarantee that your online presence not only meets but exceeds the highest performance standards. Our aim is to ensure your complete satisfaction with the final result.",
+        "Once the website design is finalized, I begin the development phase. I meticulously code your responsive website or online shop to meet your specific needs. Throughout the process, I perform quality assurance checks to ensure your online presence exceeds performance standards and your expectations.",
 
       ],
     },
@@ -207,7 +207,7 @@ import {
       iconBg: "#d0b870",
       date: "Step 4",
       points: [
-        "Upon the completion of the project, we will conduct a comprehensive review of the results together, implementing any final change requests as needed. The success story of your website unfolds with the seamless transfer from our development server to your live server. Rest assured, we remain fully committed to accompanying you every step of the way.",
+        "Upon the completion of the project, we will conduct a comprehensive review of the results together, implementing any final change requests as needed. The success story of your website unfolds with the seamless transfer from my development server to your live server. Rest assured, i remain fully committed to accompanying you every step of the way.",
 
       ],
     },
@@ -269,95 +269,95 @@ import {
       linkIcon: link,
       source_code_link: "https://vilalisjak.com",
     },
-    {
-      name: "Diginex",
-      description:
-        "A showcase of innovation and creativity. Our website, crafted with React and Three.js, represents our commitment to excellence in web development.",
-      tags: [
-        {
-          name: "React",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "green-text-gradient",
-        },
-        {
-          name: "threeJS",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: diginex,
-      linkIcon: github,
-      source_code_link: "https://github.com/Robert051998/diginex",
-    },
+    // {
+    //   name: "Diginex",
+    //   description:
+    //     "A showcase of innovation and creativity. Our website, crafted with React and Three.js, represents our commitment to excellence in web development.",
+    //   tags: [
+    //     {
+    //       name: "React",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "tailwind",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "threeJS",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: diginex,
+    //   linkIcon: github,
+    //   source_code_link: "https://github.com/Robert051998/diginex",
+    // },
 
-    {
-      name: "Farmateket",
-      description:
-        "Farmateket is a Norwegian online shop for nutritional supplements, offering a wide range of payment options, including PayPal, Klarna, Swrill, and more.",
-      tags: [
-        {
-          name: "PHP",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "mySQL",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Bootstrap",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: farmatek,
-      linkIcon: link,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Photo Boost",
-      description:
-        "A snippet that enables you to edit photos without compromising their quality. The main software was developed using Laravel and Python.",
-      tags: [
-        {
-          name: "WordPress",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Ocean Theme",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Elementor",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: photobost,
-      linkIcon: link,
-      source_code_link: "https://photoboost.co/",
-    },
-    {
-      name: "Early Birds Properties",
-      description:
-        "A comprehensive real estate portal built on WordPress that caters to the diverse needs of property owners and customers.",
-      tags: [
-        {
-          name: "WP",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "mySQL",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Elementor",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: birds,
-      linkIcon: link,
-      source_code_link: "https://earlybirdsproperties.com/",
-    },
+    // {
+    //   name: "Farmateket",
+    //   description:
+    //     "Farmateket is a Norwegian online shop for nutritional supplements, offering a wide range of payment options, including PayPal, Klarna, Swrill, and more.",
+    //   tags: [
+    //     {
+    //       name: "PHP",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "mySQL",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "Bootstrap",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: farmatek,
+    //   linkIcon: link,
+    //   source_code_link: "https://github.com/",
+    // },
+    // {
+    //   name: "Photo Boost",
+    //   description:
+    //     "A snippet that enables you to edit photos without compromising their quality. The main software was developed using Laravel and Python.",
+    //   tags: [
+    //     {
+    //       name: "WordPress",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Ocean Theme",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "Elementor",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: photobost,
+    //   linkIcon: link,
+    //   source_code_link: "https://photoboost.co/",
+    // },
+    // {
+    //   name: "Early Birds Properties",
+    //   description:
+    //     "A comprehensive real estate portal built on WordPress that caters to the diverse needs of property owners and customers.",
+    //   tags: [
+    //     {
+    //       name: "WP",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "mySQL",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "Elementor",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: birds,
+    //   linkIcon: link,
+    //   source_code_link: "https://earlybirdsproperties.com/",
+    // },
   ];
 
   export { services, technologies, experiences, prices, projects };

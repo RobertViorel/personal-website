@@ -16,8 +16,8 @@ const PriceCard = ({
   points,
 }) => (
   <ParallaxTilt className='w-full xl:w-1/3 lg:w-1/3 md:w-2/4 sm:w-full md:px-4 p-0 mb-6'
-  tiltMaxAngleX={0}
-    tiltMaxAngleY={0}
+  tiltMaxAngleX={1}
+    tiltMaxAngleY={2}
     perspective={1000}
     scale={1.05}
     gyroscope>

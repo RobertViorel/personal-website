@@ -20,13 +20,13 @@ const Footer = () => {
         </Link>
         <div className='w-full xl:w-1/3 lg:w-1/3 md:w-full sm:w-full md:px-3 p-0 mb-6 xl:mb-0 lg:mb-0 md:mb-6'>
           <div className='bg-tertiary flex justify-center rounded-2xl p-5'>
-            <a href="https://github.com/Robert051998/diginex" target="_blank" rel="noopener noreferrer" className='mx-4'>
+            <a href="https://github.com/Robert051998" target="_blank" rel="noopener noreferrer" className='mx-4'>
               <img src={github} alt="GitHub" className="w-[30px] h-[30px]" />
             </a>
             <a href="https://www.facebook.com/profile.php?id=61550625548304" target="_blank" rel="noopener noreferrer" className='mx-4' style={{ color: '#d0b870' }}>
               <img src={facebook} alt="Facebook" className="w-[30px] h-[30px]" />
             </a>
-            <a href="https://www.instagram.com/diginex_web/" target="_blank" rel="noopener noreferrer" className='mx-4' style={{ color: '#d0b870' }}>
+            <a href="https://www.instagram.com/robert_dumitru.dev/" target="_blank" rel="noopener noreferrer" className='mx-4' style={{ color: '#d0b870' }}>
               <img src={instagram} alt="Instagram" className="w-[30px] h-[30px]" />
             </a>
           </div>

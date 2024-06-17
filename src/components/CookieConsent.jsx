@@ -38,7 +38,7 @@ function CookieConsent() {
       >
         <h3 className="text-white font-bold text-[18px]">We value your privacy</h3>
         <p className="mt-3 text-white text-[14px]">
-          We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
+          We use cookies to enhance your browsing experience and analyze our traffic. By clicking "Accept All", you consent to our use of cookies.
         </p>
       </ReactCookieConsent>
     </div>
