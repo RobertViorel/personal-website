@@ -224,7 +224,7 @@ import {
     {
       name: "Boxa Travel",
       description:
-        "Boxatravel is a Web 3.0-based travel booking engine that supports crypto payments as well as a referral system for earning points.",
+        "Boxatravel is a Web 3.0-based travel booking engine that supports crypto payments. This app was built by a full team of developers. It was a startup I founded a few years ago that unfortunately didn't have the chance to take off. My involvement was solely in the front-end development. Currently, the code is publicly available on GitHub and may be used for personal purposes ONLY.",
       tags: [
         {
           name: "PHP",
