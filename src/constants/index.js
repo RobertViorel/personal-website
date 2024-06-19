@@ -1,3 +1,4 @@
+import { node } from "prop-types";
 import {
     develop,
     done,
@@ -21,12 +22,8 @@ import {
     github,
     tick,
     link,
-    farmatek,
-    photobost,
-    birds,
     boxa,
     vilalisjak,
-    diginex,
     graphic,
 
 
