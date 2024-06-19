@@ -24,7 +24,7 @@ const Hero = () => {
 
   <img src="/computer.png" alt="Computer image" style={{ width: "100%", position: "relative", left: "50%", transform: "translateX(-50%)", bottom: "50px", maxWidth: "800px" }} />
   <a href='#about'>
-  <div className='relative xs:bottom-0 bottom-2 w-full flex justify-center items-center z-0'>
+  <div className='absolute xs:bottom-0 bottom-2 w-full flex justify-center items-center z-0'>
       <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
         <motion.div
           animate={{
