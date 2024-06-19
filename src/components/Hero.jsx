@@ -12,7 +12,7 @@ const Hero = () => {
       <div className='w-1 sm:h-80 h-40 violet-gradient' />
     </div>
 
-    <div>
+    <div className="relative">
       <h1 className={`${styles.heroHeadText} text-white`}>
         Building Success in the Digital Realm - <span className='text-[#D0B870]'> Your Web Solutions Expert</span>
       </h1>
@@ -22,10 +22,9 @@ const Hero = () => {
     </div>
   </div>
 
-  <img src="/computer.png" alt="Computer image" style={{ width: "100%", position: "absolute", left: "50%", transform: "translateX(-50%)", bottom: "50px", maxWidth: "800px" }} />
-
-  <div className='absolute xs:bottom-0 bottom-2 w-full flex justify-center items-center z-0'>
-    <a href='#about'>
+  <img src="/computer.png" alt="Computer image" style={{ width: "100%", position: "relative", left: "50%", transform: "translateX(-50%)", bottom: "50px", maxWidth: "800px" }} />
+  <a href='#about'>
+  <div className='relative xs:bottom-0 bottom-2 w-full flex justify-center items-center z-0'>
       <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
         <motion.div
           animate={{
@@ -39,8 +38,9 @@ const Hero = () => {
           className='w-3 h-3 rounded-full bg-secondary mb-1'
         />
       </div>
-    </a>
   </div>
+  </a>
+
 </section>
 
 
