@@ -1,4 +1,3 @@
-import { node } from "prop-types";
 import {
     develop,
     done,
@@ -25,6 +24,7 @@ import {
     boxa,
     vilalisjak,
     graphic,
+    linkedin,
 
 
   } from "../assets";

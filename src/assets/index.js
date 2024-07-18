@@ -35,8 +35,10 @@ import vilalisjak from "./vilalisjak.png";
 import diginex from "./diginex.png";
 import graphic from "./graphic.png";
 import computer from "./computer.png";
+import linkedin from "./linkedin.png";
 
 export {
+  linkedin,
   computer,
   graphic,
   diginex,
