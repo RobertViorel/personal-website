@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import { styles } from "../styles";
-import { logo, github, email, facebook, instagram, linkedin } from "../assets";
+import { logo, github, email, instagram, linkedin } from "../assets";
 
 const Footer = () => {
   return (

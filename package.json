@@ -1,8 +1,8 @@
 {
   "name": "personal-website",
   "private": true,
-  "version": "0.0.0",
-  "type": "commonjs",
+  "version": "2.1.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -10,11 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emailjs/browser": "^4.3.3",
-    "@react-three/drei": "^9.107.0",
+    "@emailjs/browser": "^4.4.1",
+    "@react-three/drei": "^9.108.4",
     "@react-three/fiber": "^8.16.8",
-    "framer-motion": "^11.2.11",
-    "maath": "^0.10.7",
+    "framer-motion": "^11.3.6",
+    "maath": "^0.10.8",
     "prop-types": "^15.8.1",
     "react": "^18.3.1",
     "react-cookie": "^7.1.4",
@@ -24,12 +24,12 @@
     "react-parallax-tilt": "^1.7.228",
     "react-router-dom": "^6.23.1",
     "react-vertical-timeline-component": "^3.6.0",
-    "three": "^0.165.0"
+    "three": "^0.166.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
     "@types/react-dom": "^18.2.19",
-    "@vitejs/plugin-react": "^4.2.1",
+    "@vitejs/plugin-react": "^4.3.1",
     "autoprefixer": "^10.4.18",
     "eslint": "^8.56.0",
     "eslint-plugin-react": "^7.33.2",
@@ -39,6 +39,6 @@
     "postcss-import": "^16.0.1",
     "postcss-preset-env": "^9.5.0",
     "tailwindcss": "^3.4.1",
-    "vite": "^5.1.4"
+    "vite": "^5.3.4"
   }
 }
