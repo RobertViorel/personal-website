@@ -10,11 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emailjs/browser": "^4.4.1",
-    "@react-three/drei": "^9.108.4",
+    "@emailjs/browser": "^4.3.3",
+    "@react-three/drei": "^9.107.0",
     "@react-three/fiber": "^8.16.8",
-    "framer-motion": "^11.3.6",
-    "maath": "^0.10.8",
+    "framer-motion": "^11.2.11",
+    "maath": "^0.10.7",
     "prop-types": "^15.8.1",
     "react": "^18.3.1",
     "react-cookie": "^7.1.4",
@@ -24,7 +24,7 @@
     "react-parallax-tilt": "^1.7.228",
     "react-router-dom": "^6.23.1",
     "react-vertical-timeline-component": "^3.6.0",
-    "three": "^0.166.1"
+    "three": "^0.165.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
